@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <h3>"Algorithms are the heartbeat of efficient logic; without them, code is just a silent machine."</h3>
+  <h3>"When the logic is Dense, and the pressure is Intense; my Algorithms make the perfect Sense."</h3>
   <p>— <b>Saksham Pantola</b></p>
 </div>
 
@@ -60,19 +60,18 @@ Implemented graphs using **Adjacency Matrix** to solve:
 
 Follow these steps to run any algorithm from this repository on your local machine:
 
-1. **Setup & Execution:**
-   ```bash
-   # 1. Clone the Project
-   git clone [https://github.com/SakshamPantola/DAA-4th-Sem.git](https://github.com/SakshamPantola/DAA-4th-Sem.git)
+```bash
+# 1. Clone the Project
+git clone [https://github.com/SakshamPantola/DAA-4th-Sem.git](https://github.com/SakshamPantola/DAA-4th-Sem.git)
 
-   # 2. Enter the Directory
-   cd DAA-4th-Sem
+# 2. Enter the Directory
+cd DAA-4th-Sem
 
-   # 3. Choose a Week (e.g., Week-1, Week-6)
-   cd Week-6
+# 3. Choose a Week (e.g., Week-1, Week-6)
+cd Week-6
 
-   # 4. Compile the Code (Replace filename.cpp with actual file name)
-   g++ filename.cpp -o solution
+# 4. Compile the Code (Replace filename.cpp with actual file name)
+g++ filename.cpp -o solution
 
-   # 5. Run the Output
-   ./solution
+# 5. Run the Output
+./solution
