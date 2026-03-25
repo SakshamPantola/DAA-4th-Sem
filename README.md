@@ -4,7 +4,14 @@
 [![Algorithms](https://img.shields.io/badge/Focus-Algorithms-orange.svg)]()
 [![User](https://img.shields.io/badge/Student-Saksham%20Pantola-yellow.svg)]()
 
-> "Code is just logic, but an Algorithm is the soul that brings that logic to life." — *Saksham Pantola*
+---
+
+<div align="center">
+  <h3>"Algorithms are the heartbeat of efficient logic; without them, code is just a silent machine."</h3>
+  <p>— <b>Saksham Pantola</b></p>
+</div>
+
+---
 
 Welcome to my official repository for the **Design and Analysis of Algorithms (DAA)** lab. This repo tracks my progress through the 4th semester, covering fundamental to advanced algorithmic concepts implemented in C++.
 
@@ -49,11 +56,23 @@ Implemented graphs using **Adjacency Matrix** to solve:
 
 ---
 
-## 🚀 How to Use this Repository (Step-by-Step)
+## 🚀 How to Use this Repository
 
-Follow these steps to run any algorithm from any week folder:
+Follow these steps to run any algorithm from this repository on your local machine:
 
-1. **Clone the Project:**
-   Repo ko apne computer par download karein:
+1. **Setup & Execution:**
    ```bash
+   # 1. Clone the Project
    git clone [https://github.com/SakshamPantola/DAA-4th-Sem.git](https://github.com/SakshamPantola/DAA-4th-Sem.git)
+
+   # 2. Enter the Directory
+   cd DAA-4th-Sem
+
+   # 3. Choose a Week (e.g., Week-1, Week-6)
+   cd Week-6
+
+   # 4. Compile the Code (Replace filename.cpp with actual file name)
+   g++ filename.cpp -o solution
+
+   # 5. Run the Output
+   ./solution
