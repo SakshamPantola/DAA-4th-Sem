@@ -31,3 +31,4 @@ int main() {
     while (t--) solve();
     return 0;
 }
+
